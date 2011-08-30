@@ -15,4 +15,4 @@ Notað til að gefa til kynna að ákveðinn hlutur er af slakari útgáfu sem o
 
 Áhersluforskeyti, gefur til kynna óvenjulega jákvæða áherslu. Gengur með með nafn-, sagn- og lýsingarorðum.
 
-Notað við hátíðleg tækifæri þegar ástæða er til að auka vægi jákvæðra orða. Dæmi: Til *sólksinshamingju* með afmælisdaginn snúður!
+Notað við hátíðleg tækifæri þegar ástæða er til að auka vægi jákvæðra orða. Dæmi: Til *sólskinshamingju* með afmælisdaginn snúður!
