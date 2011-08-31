@@ -28,3 +28,11 @@ Notað til að lýsa hlutum sem námsmenn og aðrir undirmálsmenn nýta sér ti
 Einnig: bítlamatur, bítlaföt, bítlahár
 
 (heimild: ónafngreindur)
+
+# Lopa-
+
+Getur merkt að eitthvað sé loðið og ógeðslegt, eða mjúkt og hlýtt. Gengur með nafnorðum.
+
+Merkir fyrir mat og drykk að um sé að ræða óvenju ógeðfellda útgáfu. Dæmi: Ísinn í gær var bölvaður *lopaís* svo ég sprengiældi næstum því.
+
+Fyrir óæta hluti er merkingin oftast jákvæð, að viðkomandi hlutur sé mjúkur, hlýr og bara gamaldags næs. Dæmi: Finnst þér hún Kristín ekki næs? -Jú, hún er algjör *lopastelpa*.
