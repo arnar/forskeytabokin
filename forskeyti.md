@@ -7,6 +7,8 @@ Fyrir sagnorð merkir að athöfn er framin af ákveðni og þunga, og/eða í m
 
 Einnig: sprengisandur
 
+Sjá einnig: Hvell-
+
 # Gadda-
 
 Áhersluforskeyti, setur viðfang í neikvætt smahengi. Gengur með með nafnorðum.
@@ -36,3 +38,13 @@ Getur merkt að eitthvað sé loðið og ógeðslegt, eða mjúkt og hlýtt. Gen
 Merkir fyrir mat og drykk að um sé að ræða óvenju ógeðfellda útgáfu. Dæmi: Ísinn í gær var bölvaður *lopaís* svo ég sprengiældi næstum því.
 
 Fyrir óæta hluti er merkingin oftast jákvæð, að viðkomandi hlutur sé mjúkur, hlýr og bara gamaldags næs. Dæmi: Finnst þér hún Kristín ekki næs? -Jú, hún er algjör *lopastelpa*.
+
+# Hvell-
+
+Merkir athöfn sem gerist í flýti. Gengur með sagnorðum og nafnorðum sem lýsa athöfn.
+
+Merkir að eitthvað sé gert á leifturhraða, eða "í hvelli." Dæmi: Arnar *hvelleldar* hafragraut því píparinn kom of seint.
+
+Athugið að rugla ekki merkingum hvell- (í flýti) og sprengi- (af ákveðni). Það er þannig bæði hægt að *sprengisvitna* og *hvellsvitna*, þó það síðara leiði gjarnan af sér hið fyrra.
+
+Sjá einnig: Sprengi-
