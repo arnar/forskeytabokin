@@ -11,7 +11,7 @@ Sjá einnig: Hvell-
 
 # Gadda-
 
-Áhersluforskeyti, setur viðfang í neikvætt smahengi. Gengur með með nafnorðum.
+Áhersluforskeyti, setur viðfang í neikvætt samhengi. Gengur með með nafnorðum.
 
 Notað til að gefa til kynna að ákveðinn hlutur er af slakari útgáfu sem oft hafa í för með sér slæmar afleiðingar. Dæmi: Munurinn á kaffi og *gaddakaffi* er hinn sami og munurinn á vír og gaddavír.
 
@@ -23,7 +23,7 @@ Notað við hátíðleg tækifæri þegar ástæða er til að auka vægi jákv�
 
 # Bítla-
 
-Gefur til kynna ódýra útáfu. Gengur með nafnorðum.
+Gefur til kynna ódýra útgáfu. Gengur með nafnorðum.
 
 Notað til að lýsa hlutum sem námsmenn og aðrir undirmálsmenn nýta sér til að spara peninga. Dæmi: Fáum okkur *bítlamat* í kvöld til að eiga fyrir helginni.
 
