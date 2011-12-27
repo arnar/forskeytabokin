@@ -48,3 +48,9 @@ Merkir að eitthvað sé gert á leifturhraða, eða "í hvelli." Dæmi: Arnar *
 Athugið að rugla ekki merkingum hvell- (í flýti) og sprengi- (af ákveðni). Það er þannig bæði hægt að *sprengisvitna* og *hvellsvitna*, þó það síðara leiði gjarnan af sér hið fyrra.
 
 Sjá einnig: Sprengi-
+
+# Súr-
+
+Forskeytið *súr-* fyrir framan nafnorð gefur til kynna um gallaða eða annars flokks útgáfu, samanber við ýldulykt eða annan óþef. Gengur einnig með sagnorðum og þýðir þá athöfn sem rýrir gildi einhvers verulega.
+
+Dæmi: Jóna fór heim með algjörum *súrdela* svo hún fór bara aftur í bæinn sama kvöld. Stefán *súrmálaði* íbúðina sína.
