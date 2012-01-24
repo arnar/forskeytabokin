@@ -3,7 +3,7 @@
 Áhersluforskeyti, styrkir merkingu viðfangs. Gengur með sagn-, nafn-, og lýsingarorðum.
 
 Einfalt áherslumerki fyrir lýsingarorð. Dæmi: Palli var *sprengifullur* í gær.
-Fyrir sagnorð merkir að athöfn er framin af ákveðni og þunga, og/eða í miklum flýti. Dæmi: Ég ætla að *sprengikúka*, kem eftir 2 mín.
+Fyrir sagnorð merkir að athöfn er framin af ákveðni og þunga, og/eða í miklum flýti. Dæmi: Ég ætla að *sprengiborða*, verð tilbúinn eftir 2 mín.
 
 Einnig: sprengisandur
 
