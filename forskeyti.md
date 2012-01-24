@@ -54,3 +54,11 @@ Sjá einnig: Sprengi-
 Forskeytið *súr-* fyrir framan nafnorð gefur til kynna um gallaða eða annars flokks útgáfu, samanber við ýldulykt eða annan óþef. Gengur einnig með sagnorðum og þýðir þá athöfn sem rýrir gildi einhvers verulega.
 
 Dæmi: Jóna fór heim með algjörum *súrdela* svo hún fór bara aftur í bæinn sama kvöld. Stefán *súrmálaði* íbúðina sína.
+
+# Klessu-
+
+Enn eitt áhersluforskeyti. Hefðbundið með sögnum, en hentar einnig vel með lýsingar- og atviksorðum. Getur gefið til kynna að viðkomandi lýsing er svo sterk að maður klessir hnefa í lófa, eða lófa á enni, eða skellir sér á lær til áherslu.
+
+Dæmi: Í Afganistan finnast *klessumerkileg* teppi sem sýna vopn og önnur áhrif stríðs á menningu þeirra.
+
+Heimild/uppruni: Kristleifur (Krilli) Daðason
